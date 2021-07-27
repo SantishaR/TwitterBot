@@ -1,4 +1,4 @@
-# Company-Site
+# Twitter Bot
 
 In this project I created a twitter bot with the guidance of the
 GirlCode Build a Twitter Bot Workshop presented by Refilwe Rametsi.
